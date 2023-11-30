@@ -1,0 +1,5 @@
+print('Hello! I will introduce myself.')
+print('Name: Nisa Nur Kaya')
+print('Age: 20')
+print('Job: Student')
+print('Adress: Istanbul, Sarıyer')
